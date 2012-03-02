@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>genre</key>
+		<array>
+			<dict>
+				<key>website</key>
+				<string>http://www.ucirvinesports.com/sports/w-baskbl/ucir-w-baskbl-body.html</string>
+				<key>sport</key>
+				<string>Basketball</string>
+			</dict>
+			<dict>
+				<key>website</key>
+				<string>http://www.ucirvinesports.com/sports/c-xc/ucir-c-xc-body.html</string>
+				<key>sport</key>
+				<string>Cross Country</string>
+			</dict>
+			<dict>
+				<key>website</key>
+				<string>http://www.ucirvinesports.com/sports/w-golf/ucir-w-golf-body.html</string>
+				<key>sport</key>
+				<string>Golf</string>
+			</dict>
+			<dict>
+				<key>website</key>
+				<string>http://www.ucirvinesports.com/sports/w-itrack/ucir-w-itrack-body.html</string>
+				<key>sport</key>
+				<string>Indoor Track</string>
+			</dict>
+			<dict>
+				<key>website</key>
+				<string>http://www.ucirvinesports.com/sports/w-soccer/ucir-w-soccer-body.html</string>
+				<key>sport</key>
+				<string>Soccer</string>
+			</dict>
+			<dict>
+				<key>website</key>
+				<string>http://www.ucirvinesports.com/sports/w-tennis/ucir-w-tennis-body.html</string>
+				<key>sport</key>
+				<string>Tennis</string>
+			</dict>
+			<dict>
+				<key>website</key>
+				<string>http://www.ucirvinesports.com/sports/c-track/ucir-c-track-body.html</string>
+				<key>sport</key>
+				<string>Track &amp; Field</string>
+			</dict>
+			<dict>
+				<key>website</key>
+				<string>http://www.ucirvinesports.com/sports/w-volley/ucir-w-volley-body.html</string>
+				<key>sport</key>
+				<string>Volleyball</string>
+			</dict>
+			<dict>
+				<key>website</key>
+				<string>http://www.ucirvinesports.com/sports/m-wpolo/ucir-m-wpolo-body.html</string>
+				<key>sport</key>
+				<string>Water Polo</string>
+			</dict>
+		</array>
+		<key>gender</key>
+		<string>Women&apos;s</string>
+	</dict>
+	<dict>
+		<key>genre</key>
+		<array>
+			<dict>
+				<key>website</key>
+				<string>http://www.ucirvinesports.com/sports/m-baskbl/ucir-m-baskbl-body.html</string>
+				<key>sport</key>
+				<string>Basketball</string>
+			</dict>
+			<dict>
+				<key>website</key>
+				<string>http://www.ucirvinesports.com/sports/c-xc/ucir-c-xc-body.html</string>
+				<key>sport</key>
+				<string>Cross Country</string>
+			</dict>
+			<dict>
+				<key>website</key>
+				<string>http://www.ucirvinesports.com/sports/m-golf/ucir-m-golf-body.html</string>
+				<key>sport</key>
+				<string>Golf</string>
+			</dict>
+			<dict>
+				<key>website</key>
+				<string>http://www.ucirvinesports.com/sports/m-soccer/ucir-m-soccer-body.html</string>
+				<key>sport</key>
+				<string>Soccer</string>
+			</dict>
+			<dict>
+				<key>website</key>
+				<string>http://www.ucirvinesports.com/sports/m-tennis/ucir-m-tennis-body.html</string>
+				<key>sport</key>
+				<string>Tennis</string>
+			</dict>
+			<dict>
+				<key>website</key>
+				<string>http://www.ucirvinesports.com/sports/c-track/ucir-c-track-body.html</string>
+				<key>sport</key>
+				<string>Track &amp; Field</string>
+			</dict>
+			<dict>
+				<key>website</key>
+				<string>http://www.ucirvinesports.com/sports/m-volley/ucir-m-volley-body-main.html</string>
+				<key>sport</key>
+				<string>Volleyball</string>
+			</dict>
+			<dict>
+				<key>website</key>
+				<string>http://www.ucirvinesports.com/sports/m-wpolo/ucir-m-wpolo-body.html</string>
+				<key>sport</key>
+				<string>Water Polo</string>
+			</dict>
+		</array>
+		<key>gender</key>
+		<string>Men&apos;s</string>
+	</dict>
+	<dict>
+		<key>genre</key>
+		<array>
+			<dict>
+				<key>website</key>
+				<string>http://www.bren.uci.edu/</string>
+				<key>sport</key>
+				<string>Bren Events Center</string>
+			</dict>
+		</array>
+		<key>gender</key>
+		<string>BrenEvent</string>
+	</dict>
+</array>
+</plist>

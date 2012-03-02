@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Zot!Wire: All Headlines</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss</string>
+		<key>category</key>
+		<string>news</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Athletics</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss?cat=8</string>
+		<key>category</key>
+		<string>news</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Campus</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss?cat=6</string>
+		<key>category</key>
+		<string>news</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Environment &amp; Energy</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss?to=env/energy</string>
+		<key>category</key>
+		<string>news</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Health &amp; Medicine</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss?cat=1</string>
+		<key>category</key>
+		<string>news</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Science &amp; Technology</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss?cat=2</string>
+		<key>category</key>
+		<string>news</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Society &amp; Politics</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss?cat=5</string>
+		<key>category</key>
+		<string>news</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Administration</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss?to=admin</string>
+		<key>category</key>
+		<string>news</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>News Briefs</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/briefs.rss</string>
+		<key>category</key>
+		<string>news</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Arts</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss?sc=arts</string>
+		<key>category</key>
+		<string>Schools</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Biological Sciences</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss?sc=bsci</string>
+		<key>category</key>
+		<string>Schools</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Business</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss?sc=bus</string>
+		<key>category</key>
+		<string>Schools</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Education</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss?sc=edu</string>
+		<key>category</key>
+		<string>Schools</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Engineering</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss?sc=eng</string>
+		<key>category</key>
+		<string>Schools</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Health Sciences</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss?sc=hsci</string>
+		<key>category</key>
+		<string>Schools</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Humanities</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss?sc=hum</string>
+		<key>category</key>
+		<string>Schools</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Computer Sciences</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss?sc=ICS</string>
+		<key>category</key>
+		<string>Schools</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Law</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss?sc=law</string>
+		<key>category</key>
+		<string>Schools</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Medicine</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss?sc=med</string>
+		<key>category</key>
+		<string>Schools</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Physical Sciences</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss?sc=psci</string>
+		<key>category</key>
+		<string>Schools</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Social Ecology</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss?sc=seco</string>
+		<key>category</key>
+		<string>Schools</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Social Sciences</string>
+		<key>address</key>
+		<string>http://www.today.uci.edu/feeds/headlines.rss?sc=ssci</string>
+		<key>category</key>
+		<string>Schools</string>
+	</dict>
+</array>
+</plist>
